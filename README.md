@@ -17,7 +17,7 @@ For now, use in `component.json` like this
   "version": "1.0.0",
   "main": "",
   "dependencies": {
-    "modernizr": "git+https://github.com/Iristyle/bower-angular.git#2.6.2"
+    "modernizr": "git+https://github.com/Iristyle/bower-modernizr.git#2.6.2"
   }
 }
 ```
