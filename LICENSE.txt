@@ -1,1 +1,1 @@
-/* Modernizr 2.6.2 | MIT & BSD */
+/* Modernizr 2.8.3 | MIT & BSD */
