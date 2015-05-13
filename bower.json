@@ -1,0 +1,26 @@
+{
+  "name": "modernizr",
+  "version": "2.8.3",
+  "main": [
+    "./modernizr.js"
+  ],
+  "homepage": "https://github.com/socialshop/bower-modernizr",
+  "authors": [
+    "Adriaan van Rossum <git@adriaan.io>"
+  ],
+  "description": "Bower friendly version of modernizr",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT & BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
