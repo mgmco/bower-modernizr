@@ -9,7 +9,7 @@ repo through Bower itself, rather than the current [source repository][].
 
 As soon as that happens, this will disappear.
 
-For now, use in `component.json` like this
+For now, use in `bower.json` like this
 
 ```javascript
 {
